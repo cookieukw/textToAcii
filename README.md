@@ -3,7 +3,7 @@ A simple html website that converts texts into something chosen by the user (a k
 
 <br>
 
-[Try it](https://cookieukw.github.io/textToAscii/index.html)
+[Try it](https://cookieukw.github.io/textToAscii/)
 
 <br>
 
