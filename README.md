@@ -2,6 +2,9 @@
 A simple html website that converts texts into something chosen by the user (a kind of ascii drawing forming a letter) 
 
 <br>
+[Try it](https://cookieukw.github.io/textToAscii/index.html)
+
+<br>
 
 A code mapped to the letters of the alphabet. he makes a text with letters forming a kind of drawing. In this case they are discord emojis, where :0px: is a transparent emoji and :1px: is a full red emoji
 
